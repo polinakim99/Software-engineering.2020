@@ -1,0 +1,12 @@
+#ifndef CLASS_H
+#define CLASS_H
+
+
+class class
+{
+public:
+    class();
+    class(QString name,);
+};
+
+#endif // CLASS_H

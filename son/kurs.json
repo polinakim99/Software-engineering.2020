@@ -1,0 +1,167 @@
+{
+   "1":{
+      "Name":"Ghost",
+      "Description":"A ghost is the soul of man, which is not rested for various reasons, which can appear in our world.",
+      "Enemies": [
+      "The First entities"
+      ],
+      "Food": [
+      "People's attention"
+      ],
+      "Strengths": [
+      "Invisibility",
+      "Intangibility",
+      "Teleportation",
+      "Telekinesis",
+      "Electrokinesis"
+      ],
+      "Weeknesses": [
+      "Salt",
+      "Iron",
+      "Burning of the remains",
+      "The First entities",
+      "Reapers"
+      ],
+      "Picture":":/pics/ghost.jpg"
+},
+   "2":{
+      "Name":"Reaper",
+      "Description":"The reaper is a creature that takes the souls of the dead.",
+      "Enemies": [
+      "Demons"
+      ],
+       "Food": [
+      "Unknown"
+      ],
+      "Strengths": [
+      "Invisibility",
+      "Intangibility",
+      "Teleportation",
+      "Telekinesis",
+      "Immortality"
+      ],
+      "Weeknesses":[
+      "Special symbols"
+      ],
+      "Picture":":/pics/zhnec.jpg"
+},
+   "3":{
+      "Name":"Demon",
+      "Description":"All demons were previously sinful people who died without repentance, and from many years of torment spent in Hell, they lost their humanity.",
+      "Enemies": [
+      "Angel",
+      "The First entities"
+      ],
+       "Food": [
+      "Different human feelings"
+      ],
+      "Strengths": [
+      "Obsession",
+      "Flight",
+      "Immortality"
+      ],
+      "Weeknesses": [
+      "Salt",
+      "Holy water",
+      "Bone burning",
+      "Iron",
+      "Pentagram",
+      "Colt"
+      ],
+      "Picture":":/pics/demon.jpg"
+},
+   "4":{
+      "Name":"Angel",
+      "Description":"Angels are heavenly beings created by God. Angels are very powerful creatures, and their true appearance can burn out the eyes of man.",
+      "Enemies": [
+      "Darkness",
+      "Death"
+      ],
+       "Food": [
+      "Unknown"
+      ],
+      "Strengths": [
+      "Flight",
+      "Teleportation",
+      "Telekinesis",
+      "Healing",
+      "Voice imitation",
+      "Resurrection",
+      "Immortality",
+      "Telepathy"
+      ],
+      "Weeknesses": [
+      "Holy oil",
+      "Anti-angel symbols"
+      ],
+      "Picture":":/pics/angel.jpg"
+},
+
+   "5":{
+      "Name":"God",
+      "Description":"God is the creator of the Multiverse and the creatures living in it, the brother of Darkness.",
+      "Enemies": [
+      "Not sculpted"
+      ],
+       "Food": [
+      "Unknown"
+      ],
+      "Strengths": [
+      "Omnipotent"
+      ],
+      "Weeknesses": [
+      "Not sculpted"
+      ],
+      "Picture":":/pics/god.jpg"
+},
+   "6":{
+      "Name":"Darkness",
+      "Description":"Darkness is the original being and elder sister of God. She is able to destroy everything that exists and how to mortally wound her own brother, and completely cure him.",
+      "Enemies": [
+      "Not sculpted"
+      ],
+       "Food": [
+      "Unknown"
+      ],
+      "Strengths": [
+      "Immortality",
+      "Invulnerability",
+      "Teleportation",
+      "Telekinesis",
+      "Resurrection",
+      "Mental manipulation"
+      ],
+      "Weeknesses": [
+      "Weaken spell",
+      "Mutated angel",
+      "Demon army",
+      "God"
+      ],
+      "Picture":":/pics/dark.jpg"
+},
+   "7":{
+      "Name":"Death",
+      "Description":"Death is an ancient, powerful creature, personifying the very phenomenon of death. Having existed since the beginning of time with God.",
+      "Enemies": [
+      "Not sculpted"
+      ],
+       "Food": [
+      "Souls"
+      ],
+      "Strengths": [
+      "Power",
+      "Immortality",
+      "Killing",
+      "Teleportation",
+      "Invulnerability",
+      "Resurrection",
+      "Mental manipulation"
+      ],
+      "Weeknesses": [
+      "God",
+      "Darkness",
+      "Mutated angel"
+      ],
+      "Picture":":/pics/death.jpg"
+}
+}

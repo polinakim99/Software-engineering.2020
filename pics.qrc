@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>pics/ghost.jpg</file>
+        <file>pics/zhnec.jpg</file>
+        <file>pics/demon.jpg</file>
+        <file>pics/angel.jpg</file>
+        <file>pics/god.jpg</file>
+        <file>pics/dark.jpg</file>
+        <file>pics/death.jpg</file>
+        <file>pics/osnova.png</file>
+    </qresource>
+</RCC>
