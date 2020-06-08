@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>pics/osnova.png</file>
+        <file>pics/angel1.png</file>
+        <file>pics/dark1.png</file>
+        <file>pics/death1.png</file>
+        <file>pics/demon1.png</file>
+        <file>pics/ghost1.png</file>
+        <file>pics/god1.png</file>
+        <file>pics/reaper1.png</file>
+        <file>pics/1.png</file>
+    </qresource>
+</RCC>
